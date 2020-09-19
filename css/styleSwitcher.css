@@ -1,0 +1,47 @@
+.style-switcher
+{
+    position: fixed;
+    top: 20px;
+    right: 0;
+    z-index: 5;
+    background-color: #fff;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #d4d4e3;
+    border-right: none;
+}
+.style-switcher.hide
+{
+    display: none;
+}
+.style-switcher h5
+{
+    font-size: 16px;
+    color: #302e4d;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    font-weight: 800;
+    border-bottom: 1px solid #e8dfec;
+    font-family: 'Nunito', sans-serif;
+}
+.style-switcher ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.style-switcher ul li
+{
+    display: inline-block;
+}
+.style-switcher ul li a
+{
+    height: 22px;
+    width: 22px;
+    display: block;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 0px 2px;
+    cursor: pointer;
+}
