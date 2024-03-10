@@ -25,7 +25,8 @@ You can view my live website [here](https://bittukumarsk.github.io/). Feel free 
 
 If you'd like to explore the source code or contribute to the website, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/bittukumarsk/bittukumarsk.github.io.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using <br>
+`git clone https://github.com/bittukumarsk/bittukumarsk.github.io.git`.
 
 2. **Open in Browser**: Open the `index.html` file in your preferred browser to view the website locally.
 
